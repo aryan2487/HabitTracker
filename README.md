@@ -24,7 +24,8 @@ When tackling intensive subjects like Data Structures and Algorithms (DSA) or Ma
 Error Handling: try-except blocks to manage ValueError and FileNotFoundError
 📦 Installation & Usage
 1) Clone the Repository:
-    git clone https://github.com/yourusername/habit-tracker.git
+   run the following in the terminal
+    git clone https://github.com/aryan2487/HabitTracker.git
     cd habit-tracker
 2) Run the Application:
    Ensure you have Python 3.x installed. Run:
